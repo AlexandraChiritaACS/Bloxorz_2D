@@ -47,4 +47,4 @@ A continuación presentamos los 3 modos de ejecución:
 
 @Sergi Bernad Santiago
 
-[@Thyplock](https://github.com/BrunoAltadill)
+[@Bruno Altadill Gonzalez](https://github.com/BrunoAltadill)
