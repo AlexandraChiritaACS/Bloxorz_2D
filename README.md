@@ -16,7 +16,7 @@ El juego del [Bloxorz] (http://web.eecs.umich.edu/~gameprof/gamewiki/index.php/B
 
 - [Glasgow Haskell Compiler (GHC) v7.10.3](https://www.haskell.org/platform/): Para la compilación del proyecto hemos hecho servir el compilador GHC. Nuestra recomendación es instalar “Haskell Platform”, una conjunto de herramientas que contiene el compilador requerido y otras herramientas necesarias como “cabal”, entre otras.
 
-- [WxHaskell v0.92](https://wiki.haskell.org/WxHaskell/Windows): Librería basada en wxWidgets v3.0 que hemos hecho servir para el modulo gráfico. Tuvimos diversos problemas para instalarla en diversas plataformas. Al final solo lo conseguimos en Windows 10. Siguiendo los consejos del siguiente enlace, algunas horas de esfuerzo y algo de ingenio conseguimos instalarla satisfactoriamente.
+- [WxHaskell v0.92](https://wiki.haskell.org/WxHaskell/Windows): Librería basada en wxWidgets v3.0 que hemos hecho servir para el modulo gráfico. Tuvimos diversos problemas para instalarla en diversas plataformas. Al final solo lo conseguimos en Windows 10. Siguiendo los consejos del enlace, algunas horas de esfuerzo y algo de ingenio conseguimos instalarla satisfactoriamente.
 
 #### 4.- ELEMENTOS DEL JUEGO
 
