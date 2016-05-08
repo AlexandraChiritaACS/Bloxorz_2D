@@ -1,4 +1,4 @@
-# Bloxorz_2D :space_invader:
+![Bloxorz_2D](../master/docs/Bloxorz_2D.png?raw=true)
 #### 1.- INTRODUCCIÓN
 
 Este proyecto corresponde a la materia de **Paradigmas y lenguajes de programación** de la **Universidad de Girona**.
@@ -35,6 +35,8 @@ El juego esta formado por un tablero compuesto de casillas y un bloque. Supongam
 
 
 #### 5.- COMO UTILIZARLO
+
+![Bloxorz_2D](../master/docs/gif_demostration.gif?raw=true)
 
 A continuación presentamos los 3 modos de ejecución:
 > ATENCIÓN:
