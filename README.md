@@ -38,9 +38,20 @@ El juego esta formado por un tablero compuesto de casillas y un bloque. Supongam
 
 ![Bloxorz_2D](../master/docs/gif_demostration.gif?raw=true)
 
-A continuación presentamos los 3 modos de ejecución:
+##### Controles:
+- **Flechas:** Movimiento del bloque
+- **Tecla R:** Reiniciar el nivel
+- **Tecla ESC:** Salir del juego
+- **Tecla ENTER**: Siguiente nivel en modo automatico
+
+##### Compilación dinámica y ejecución:
+```
+ghc --make Main.hs
+./Main (in Linux)
+.\Main.exe (in Windows)
+```
+
 > ATENCIÓN:
-> - Estamos trabajando para mostrar los 3 metodos de ejecucion (gif & video)
 > - Bloxorz_2D solo sera ejecutable en los sistemas que cumplan los requisitos previos. Actualmente estamos trabajando en una versión compilada estaticamente para que los usuarios puedan disfrutar del juego sin tener que cumplir los requisitos del sistema.
 
 #### 6.- DESARROLLADORES
