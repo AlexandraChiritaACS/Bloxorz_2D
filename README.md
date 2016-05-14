@@ -42,17 +42,20 @@ El juego esta formado por un tablero compuesto de casillas y un bloque. Supongam
 - **Flechas:** Movimiento del bloque
 - **Tecla R:** Reiniciar el nivel
 - **Tecla ESC:** Salir del juego
-- **Tecla ENTER**: Siguiente nivel en modo automatico
+- **Tecla ENTER**: Siguiente nivel en modo automatico (solo si ha llegado al destino)
 
 ##### Compilación dinámica y ejecución:
 ```
 ghc --make Main.hs
-./Main (in Linux)
-.\Main.exe (in Windows)
+./Main (in Linux) || .\Main.exe (in Windows)
+Enter game mode (player or cpu):
+player
+ENJOY!!
 ```
 
-> ATENCIÓN:
-> - Bloxorz_2D solo sera ejecutable en los sistemas que cumplan los requisitos previos. Actualmente estamos trabajando en una versión compilada estaticamente para que los usuarios puedan disfrutar del juego sin tener que cumplir los requisitos del sistema.
+[Vídeo con todos los niveles en Youtube](https://youtu.be/Y1k5ttR8CmM)
+
+> **ATENCIÓN:** Bloxorz_2D solo sera ejecutable en los sistemas que cumplan los requisitos previos. Actualmente estamos trabajando en una versión compilada estaticamente para que los usuarios puedan disfrutar del juego sin tener que cumplir los requisitos del sistema.
 
 #### 6.- DESARROLLADORES
 
