@@ -53,7 +53,8 @@ player
 ENJOY!!
 ```
 
-[Vídeo con todos los niveles en Youtube](https://youtu.be/Y1k5ttR8CmM)
+##### Video
+[Vídeo](https://youtu.be/Y1k5ttR8CmM) con todos los niveles en Youtube
 
 > **ATENCIÓN:** Bloxorz_2D solo sera ejecutable en los sistemas que cumplan los requisitos previos. Actualmente estamos trabajando en una versión compilada estaticamente para que los usuarios puedan disfrutar del juego sin tener que cumplir los requisitos del sistema.
 
