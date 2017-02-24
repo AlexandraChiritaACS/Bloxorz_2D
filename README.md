@@ -60,8 +60,8 @@ ENJOY!!
 
 #### 6.- DESARROLLADORES
 
-@Miquel Isern Roca
+[@Miquel Isern Roca](https://github.com/sergibernad)
 
-@Sergi Bernad Santiago
+[@Sergi Bernad Santiago](https://github.com/MiquelIR)
 
 [@Bruno Altadill Gonzalez](https://github.com/BrunoAltadill)
